@@ -88,6 +88,6 @@
     "yutu": {
       "api": "https://apiyutu.com/api.php/provide/vod",
       "name":"yutu"
-    },  
+    }  
   }
 }
