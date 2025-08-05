@@ -88,6 +88,17 @@
     "yutu": {
       "api": "https://apiyutu.com/api.php/provide/vod",
       "name":"yutu"
+   { 
+   "custom_category": 
+    }
+      "name": "情色",
+      "type": "movie",
+      "query": "情色"},
+    }
+      "name": "俄罗斯",
+      "type": "movie",
+      "query": "俄罗斯"
+      
     }  
   }
 }
