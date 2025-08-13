@@ -90,12 +90,9 @@
       "name":"yutu"
    },
   "custom_category": [
-  
-  {      
-   "name": "俄罗斯",
-   "type": "movie",
-   "query": "俄罗斯"
-      
-    }  
-  }
-}
+    {
+      "name": "俄罗斯",
+      "type": "movie",
+      "query": "俄罗斯"
+    }
+  ]
